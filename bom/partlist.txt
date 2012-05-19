@@ -1,0 +1,62 @@
+Partlist
+
+Exported from frontend_v2.sch at 19 May 2012 20:58:16
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part       Value                                              Device                                             Package           Library    Sheet
+
+ANT                                                           SMA-F-S-TH                                         SMA-F-S-TH        we_conn    1
+C1         10n                                                C-EU_0603                                          0603              we_passive 2
+C2         10n                                                C-EU_0603                                          0603              we_passive 2
+C3         15p                                                C-EU_0603                                          0603              we_passive 2
+C4         15p                                                C-EU_0603                                          0603              we_passive 2
+C5         100p                                               C-EU_0603                                          0603              we_passive 2
+C6         10p                                                C-EU_0603                                          0603              we_passive 2
+C7         DNP                                                C-EU_0603                                          0603              we_passive 2
+C8         DNP                                                C-EU_0603                                          0603              we_passive 2
+C9         DNP                                                C-EU_0603                                          0603              we_passive 2
+C10        DNP                                                C-EU_0603                                          0603              we_passive 2
+C11        10p                                                C-EU_0603                                          0603              we_passive 2
+C12        100n                                               C-EU_0603                                          0603              we_passive 3
+C13        10n                                                C-EU_0603                                          0603              we_passive 3
+C14        10n                                                C-EU_0603                                          0603              we_passive 3
+C15        100n                                               C-EU_0603                                          0603              we_passive 3
+C16        2.2u                                               C-EU_0805                                          0805              we_passive 3
+C17        DNP                                                C-EU_0603                                          0603              we_passive 3
+C18        10p                                                C-EU_0603                                          0603              we_passive 3
+C19        10n                                                C-EU_0603                                          0603              we_passive 3
+C20        100n                                               C-EU_0603                                          0603              we_passive 3
+C21        2.2u                                               C-EU_0805                                          0805              we_passive 3
+C22        10u                                                CPOL-EUSMCA                                        SMC_A             rcl        4
+C23        22u                                                CPOL-EUSMCA                                        SMC_A             rcl        4
+C24        10u                                                CPOL-EUSMCA                                        SMC_A             rcl        4
+C25        10u                                                CPOL-EUSMCA                                        SMC_A             rcl        4
+C26        10u                                                CPOL-EUSMCA                                        SMC_A             rcl        4
+D1         PESD5V0F1BL                                        D_ESD_SOD882                                       SOD882            we_passive 1
+D2         PESD5V0F1BL                                        D_ESD_SOD882                                       SOD882            we_passive 2
+D3         PESD5V0F1BL                                        D_ESD_SOD882                                       SOD882            we_passive 2
+D4         PESD5V0F1BL                                        D_ESD_SOD882                                       SOD882            we_passive 3
+D5         PESD5V0F1BL                                        D_ESD_SOD882                                       SOD882            we_passive 3
+FB1                                                           FBEAD_1206                                         1206              we_passive 4
+FB2                                                           FBEAD_1206                                         1206              we_passive 4
+FB3                                                           FBEAD_0603                                         0603              we_passive 4
+FB4                                                           FBEAD_0603                                         0603              we_passive 4
+FLT1       RADITEK_RDUP-1710-1785M-1805-1880M-4415-3W-S-CA-J2 RADITEK_RDUP-1710-1785M-1805-1880M-4415-3W-S-CA-J2 RADITEK_RDUP_4415 we_passive 1
+FLT2       EPCOS_B3832                                        EPCOS_B3832                                        DCC6C             we_passive 2
+FLT3       EPCOS_B3832                                        EPCOS_B3832                                        DCC6C             we_passive 2
+J1         DC_IN                                              22-27-2021-02                                      6410-02           con-molex  4
+J2         5V_OUT                                             22-27-2021-02                                      6410-02           con-molex  4
+L1         27n                                                L-EU_0603                                          0603              we_passive 2
+L2         10n                                                L-EU_0603                                          0603              we_passive 2
+L3         10n                                                L-EU_0603                                          0603              we_passive 2
+R1         DNP                                                R-EU_0603                                          0603              we_passive 2
+RX_OUT                                                        SMA-F-S-TH                                         SMA-F-S-TH        we_conn    2
+RX_OUT_UFL                                                    HRS_UFL                                            HRS_UFL           we_conn    2
+TX_IN                                                         SMA-F-S-TH                                         SMA-F-S-TH        we_conn    3
+TX_IN_UFL                                                     HRS_UFL                                            HRS_UFL           we_conn    3
+U1         RF3865                                             RF3865                                             QFN20_5X5_PAD     we_chips   2
+U2         ALM32220                                           ALM32220                                           ALM32X20          we_chips   3
+U3         MIC29301-5.0BT                                     MIC29XXX-FIX_WT_TO220BV                            TO220BV           we_chips   4
