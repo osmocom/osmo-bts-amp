@@ -129,17 +129,17 @@
 <rectangle x1="22.5425" y1="79.6925" x2="24.4475" y2="81.5975" layer="41"/>
 <rectangle x1="22.86" y1="82.2325" x2="24.13" y2="84.1375" layer="41"/>
 <rectangle x1="48.5775" y1="57.785" x2="49.2125" y2="60.6425" layer="41"/>
-<dimension x1="71.12" y1="44.45" x2="71.12" y2="66.04" x3="103.515459375" y3="55.245" layer="50" dtype="vertical"/>
-<dimension x1="71.12" y1="44.45" x2="69.215" y2="80.645" x3="113.665" y3="62.5475" layer="50" dtype="vertical"/>
+<dimension x1="71.12" y1="44.45" x2="71.12" y2="66.04" x3="91.767959375" y3="55.245" layer="50" dtype="vertical"/>
+<dimension x1="71.12" y1="44.45" x2="69.215" y2="80.645" x3="99.695" y3="62.5475" layer="50" dtype="vertical"/>
 <dimension x1="71.12" y1="44.45" x2="46.355" y2="50.165" x3="83.82" y3="47.3075" layer="50" dtype="vertical"/>
 <dimension x1="6.985" y1="50.165" x2="46.355" y2="80.645" x3="-6.0325" y3="65.405" layer="50" dtype="vertical"/>
 <dimension x1="6.985" y1="50.165" x2="6.985" y2="8.255" x3="-6.0325" y3="29.21" layer="50" dtype="vertical"/>
-<dimension x1="71.12" y1="44.45" x2="76.2" y2="88.9" x3="121.285" y3="66.675" layer="50" dtype="vertical"/>
+<dimension x1="71.12" y1="44.45" x2="76.2" y2="88.9" x3="106.9975" y3="66.675" layer="50" dtype="vertical"/>
 <dimension x1="0" y1="0" x2="0" y2="88.9" x3="-14.9225" y3="44.45" layer="50" dtype="vertical"/>
 <dimension x1="6.985" y1="50.165" x2="46.355" y2="80.645" x3="26.67" y3="94.615" layer="50" dtype="horizontal"/>
 <dimension x1="46.355" y1="80.645" x2="69.215" y2="80.645" x3="57.785" y3="94.615" layer="50" dtype="horizontal"/>
 <dimension x1="0" y1="88.9" x2="76.2" y2="88.9" x3="38.1" y3="101.9175" layer="50" dtype="horizontal"/>
-<dimension x1="71.12" y1="22.86" x2="71.12" y2="44.45" x3="103.52015625" y3="33.655" layer="50" dtype="horizontal"/>
+<dimension x1="71.12" y1="22.86" x2="71.12" y2="44.45" x3="91.77265625" y3="33.655" layer="50" dtype="horizontal"/>
 <dimension x1="76.18" y1="0" x2="71.12" y2="22.86" x3="73.65" y3="-6.35" layer="50" dtype="horizontal"/>
 <dimension x1="76.18" y1="0" x2="69.215" y2="8.255" x3="72.6975" y3="-13.6525" layer="50" dtype="horizontal"/>
 <dimension x1="76.18" y1="0" x2="6.985" y2="8.255" x3="41.5825" y3="-29.21" layer="50" dtype="horizontal"/>
@@ -169,6 +169,8 @@
 <rectangle x1="43.4975" y1="57.785" x2="44.1325" y2="60.6425" layer="41"/>
 <rectangle x1="43.4975" y1="71.4375" x2="44.1325" y2="74.295" layer="41"/>
 <rectangle x1="43.18" y1="74.6125" x2="43.815" y2="76.5175" layer="41"/>
+<text x="23.1775" y="42.545" size="1.778" layer="21" font="fixed" rot="R90">D51395A</text>
+<text x="21.59" y="42.545" size="1.778" layer="22" font="fixed" rot="MR90">D51395A</text>
 </plain>
 <libraries>
 <library name="we_passive">
